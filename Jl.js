@@ -41,13 +41,13 @@ var x3=Math.trunc(Math.random()*10) + 1;
       document.getElementById("box2").innerHTML="<img src='J1.png'>";
       break;
       case 2:
-      document.getElementById("box2").innerHTML="<img src='Dia.png'>";
+      document.getElementById("box2").innerHTML="<img src='Dia.jpg'>";
       break;
       case 3:
-      document.getElementById("box2").innerHTML="<img src='Lau.png'>";
+      document.getElementById("box2").innerHTML="<img src='Lau.jpg'>";
       break;
       case 4:
-      document.getElementById("box2").innerHTML="<img src='Is.png'>";
+      document.getElementById("box2").innerHTML="<img src='Is.jpg'>";
       break;
       case 5:
       document.getElementById("box2").innerHTML="<img src='Ga.png'>";
@@ -73,10 +73,10 @@ var x3=Math.trunc(Math.random()*10) + 1;
       document.getElementById("box3").innerHTML="<img src='J1.png'>";
       break;
       case 2:
-      document.getElementById("box3").innerHTML="<img src='Dia.png'>";
+      document.getElementById("box3").innerHTML="<img src='Dia.jpg'>";
       break;
       case 3:
-      document.getElementById("box3").innerHTML="<img src='Lau.png'>";
+      document.getElementById("box3").innerHTML="<img src='Lau.jpg'>";
       break;
       case 4:
       document.getElementById("box3").innerHTML="<img src='Is.jpg'>";
